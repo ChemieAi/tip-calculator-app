@@ -4,7 +4,7 @@
 
 ### Main
 
-![](./screenshots/Main.png)
+![](./screenshots/main.png)
 
 
 
